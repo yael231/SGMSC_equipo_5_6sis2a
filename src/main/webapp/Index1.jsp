@@ -18,13 +18,14 @@
 <form action="ServletRegistro" method="get">
 <table>
 <tr>
-<td>user:</td>
+<td>User:</td>
 <td><input type="text" size="20" name="user"></td>
 </tr>
 <tr>
-<td>pass:</td>
+<td>Pass:</td>
 <td><input type="text" size="20" name="pass"></td>
 </tr>
+<tr>
 <tr>
 <td colspan="2" align="center"><input type="submit" value="Registrar"></td>
 </tr>
@@ -35,11 +36,11 @@
 <form action="ServletRegistro" method="post">
 <table>
 <tr>
-<td>user:</td>
+<td>User:</td>
 <td><input type="text" size="20" name="user"></td>
 </tr>
 <tr>
-<td>pass:</td>
+<td>Pass:</td>
 <td><input type="text" size="20" name="pass"></td>
 </tr>
 <tr>
